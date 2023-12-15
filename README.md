@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Master's Thesis and work**
 
-- 🌱 I’m currently learning **Docker and NLP models**
+- 🌱 I’m currently learning **Data science**
 
 - 🤝 I’m looking for help with **Docker and kubernetes**
 
